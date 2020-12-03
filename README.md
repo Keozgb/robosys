@@ -39,8 +39,8 @@
 
 ## 実行例
 
-[動画リンク](https://youtu.be/rNIZPQFW79I)
+- [動画リンク](https://youtu.be/rNIZPQFW79I)
 
 ## ライセンス
 
-[GNU GPL-3.0 License](https://github.com/Keozgb/robosys/blob/main/COPYING)
+- [GNU GPL-3.0 License](https://github.com/Keozgb/robosys/blob/main/COPYING)
