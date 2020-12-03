@@ -4,6 +4,17 @@
 ## 目標
 
 - rasberry pi 4とUbuntuを用いてLEDを光らせる。
+
+## 概要
+
+- rasberry pi 4とLEDただ１つを用いたものである。LEDを22番と39番のピンにつないで使用する。
+
+## 動作環境
+
+- Ubuntu 18.04
+- rasberry pi 4 model B
+- 200Ω resistor
+- LED
     
 ## 内容
 
@@ -25,3 +36,7 @@
 6. sudo chmod 666 /dev/myled0を実行する。
 7. echo 0 > /dev/myled0でプログラムを実行する。(echo 0,1,2,3,4,5,6を実行することで内容の所を実行できる。)
 8. 終わったらsudo rmmod myledを実行し、アンインストールする
+
+## 動画リンク
+
+[動画リンク](https://youtu.be/rNIZPQFW79I)
